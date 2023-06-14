@@ -1,0 +1,11 @@
+C:\Users\Duda\source\repos\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.AssemblyReference.cache
+C:\Users\Duda\source\repos\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Duda\source\repos\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Form1.resources
+C:\Users\Duda\source\repos\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Properties.Resources.resources
+C:\Users\Duda\source\repos\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.GenerateResource.cache
+C:\Users\Duda\source\repos\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\Duda\source\repos\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe.config
+C:\Users\Duda\source\repos\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe
+C:\Users\Duda\source\repos\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.pdb
+C:\Users\Duda\source\repos\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.exe
+C:\Users\Duda\source\repos\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.pdb
